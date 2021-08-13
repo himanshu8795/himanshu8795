@@ -31,8 +31,8 @@ I am Himanshu Joshi, a CSE student from Indore. I really love exploring new tech
 <code><img height="40" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJs"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/git.png" title="Git"></code>
-<code><img src="https://img.icons8.com/dotty/80/000000/sql.png "title="SQL"></code>
-<code><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png "title="SQL Server"></code>
+<code><img height="40" src="https://img.icons8.com/dotty/80/000000/sql.png "title="SQL"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png "title="SQL Server"></code>
 
 <code><img height="40" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" title="Adobe Photoshop"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" title="Adobe Lightroom"></code>
