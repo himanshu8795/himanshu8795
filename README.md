@@ -29,25 +29,25 @@ I really love exploring new tech topics & ideas. I Design, read, listen to music
 
 **Cloud & data platforms**
 
-![AWS](https://img.shields.io/badge/AWS-176b87?style=flat-square) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-176b87?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-176b87?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-176b87?style=flat-square) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-176b87?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-176b87?style=flat-square) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-176b87?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-176b87?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-176b87?style=flat-square) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-176b87?style=flat-square) ![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse%20Analytics-176b87?style=flat-square)
 
 **Languages & databases**
 
-![SQL](https://img.shields.io/badge/SQL-365b9d?style=flat-square) ![Python](https://img.shields.io/badge/Python-365b9d?style=flat-square) ![PySpark](https://img.shields.io/badge/PySpark-365b9d?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-365b9d?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-365b9d?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-365b9d?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-365b9d?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-365b9d?style=flat-square) ![Python](https://img.shields.io/badge/Python-365b9d?style=flat-square) ![PySpark](https://img.shields.io/badge/PySpark-365b9d?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-365b9d?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-365b9d?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-365b9d?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-365b9d?style=flat-square) ![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL%20Database-365b9d?style=flat-square) ![SSMS](https://img.shields.io/badge/SSMS-365b9d?style=flat-square)
 
 **Data engineering**
 
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-39587a?style=flat-square) ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-39587a?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-39587a?style=flat-square) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-39587a?style=flat-square) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-39587a?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-39587a?style=flat-square) ![Coalesce](https://img.shields.io/badge/Coalesce-39587a?style=flat-square) ![Snowflake Openflow](https://img.shields.io/badge/Snowflake%20Openflow-39587a?style=flat-square) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-39587a?style=flat-square)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-39587a?style=flat-square) ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-39587a?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-39587a?style=flat-square) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-39587a?style=flat-square) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-39587a?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-39587a?style=flat-square) ![Coalesce](https://img.shields.io/badge/Coalesce-39587a?style=flat-square) ![Snowflake Openflow](https://img.shields.io/badge/Snowflake%20Openflow-39587a?style=flat-square) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-39587a?style=flat-square) ![Databricks Notebooks](https://img.shields.io/badge/Databricks%20Notebooks-39587a?style=flat-square)
 
 **Analytics & BI**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-806021?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-806021?style=flat-square) ![Power Query](https://img.shields.io/badge/Power%20Query-806021?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-806021?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-806021?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-806021?style=flat-square) ![Power Query](https://img.shields.io/badge/Power%20Query-806021?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-806021?style=flat-square) ![Power BI Service](https://img.shields.io/badge/Power%20BI%20Service-806021?style=flat-square)
 
 **Version control & automation**
 
 ![Git](https://img.shields.io/badge/Git-5e4b8b?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-5e4b8b?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-5e4b8b?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-5e4b8b?style=flat-square)
 
-**Practices** · ETL/ELT · Change data capture (CDC) · Data modeling · Data quality testing · CI/CD
+**Practices** · ETL/ELT · Change data capture (CDC) · Dimensional modeling (star schema) · SQL performance tuning · Data quality testing & reconciliation · Infrastructure as code (IaC) · CI/CD
 
 **Web, design & development tools**
 
