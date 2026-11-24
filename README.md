@@ -1,11 +1,13 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/himanshu8795/himanshu8795/main/wave.gif" width="30px">
 
-I am Himanshu Joshi, a CSE student from Indore. I really love exploring new tech topics & ideas. I Design, read, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
+I’m Himanshu Joshi, a Data Engineer and BI Developer from Indore with 5+ years of experience. I build ETL/ELT pipelines with Azure Data Factory, Databricks, SQL, and PySpark, and turn the results into Power BI dashboards. I also use Terraform to provision Azure infrastructure.
 
-- 🌱 I’m currently learning Full Stack Web Development
-- 🔭 I’m building an e-commerce ELT project with Snowflake, SQL, Python, and Coalesce.
-- 💬 Ask me anything about Trending Techs, Anime Culture & Gaming!
+I really love exploring new tech topics & ideas. I Design, read, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
+
+- 📊 I’ve built and maintained 15+ Power BI dashboards for Finance, Sales, and Operations.
+- 🔭 I’m currently building an e-commerce ELT portfolio project with Snowflake, PostgreSQL, and Coalesce.
+- 💬 Ask me about SQL optimization, dimensional modeling, or Power BI.
 - 😄 Pronouns: He/Him
 - 🎮 Games I played recently: Rocket League, Valorant
 - ⚡ Fun fact: <b>GNU's Not Unix</b> & GNU stands for the same!
@@ -35,7 +37,7 @@ I am Himanshu Joshi, a CSE student from Indore. I really love exploring new tech
 
 **Data engineering**
 
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-39587a?style=flat-square) ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-39587a?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-39587a?style=flat-square) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-39587a?style=flat-square) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-39587a?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-39587a?style=flat-square) ![Coalesce](https://img.shields.io/badge/Coalesce-39587a?style=flat-square) ![Snowflake Openflow](https://img.shields.io/badge/Snowflake%20Openflow-39587a?style=flat-square)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-39587a?style=flat-square) ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-39587a?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-39587a?style=flat-square) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-39587a?style=flat-square) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-39587a?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-39587a?style=flat-square) ![Coalesce](https://img.shields.io/badge/Coalesce-39587a?style=flat-square) ![Snowflake Openflow](https://img.shields.io/badge/Snowflake%20Openflow-39587a?style=flat-square) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-39587a?style=flat-square)
 
 **Analytics & BI**
 
@@ -43,7 +45,7 @@ I am Himanshu Joshi, a CSE student from Indore. I really love exploring new tech
 
 **Version control & automation**
 
-![Git](https://img.shields.io/badge/Git-5e4b8b?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-5e4b8b?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-5e4b8b?style=flat-square)
+![Git](https://img.shields.io/badge/Git-5e4b8b?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-5e4b8b?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-5e4b8b?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-5e4b8b?style=flat-square)
 
 **Practices** · ETL/ELT · Change data capture (CDC) · Data modeling · Data quality testing · CI/CD
 
